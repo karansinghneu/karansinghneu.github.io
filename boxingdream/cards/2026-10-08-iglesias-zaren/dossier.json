@@ -18,6 +18,7 @@
       "weight_class": "Super Middleweight",
       "scheduled_rounds": 12,
       "title": "IBF/IBO Super Middleweight unification",
+      "blocked": false,
       "fighters": [
         {
           "id": 1099601617,
@@ -545,6 +546,7 @@
       "weight_class": "Super Middleweight",
       "scheduled_rounds": 10,
       "title": "Regional Super Middleweight title",
+      "blocked": false,
       "fighters": [
         {
           "id": 923477,
@@ -1067,10 +1069,10 @@
     }
   ],
   "data_as_of": "2026-09-28",
-  "generated_at": "2026-10-03T00:34:40",
+  "generated_at": "2026-10-06T05:44:39",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata"
   ],
-  "published_at": "2026-10-03T00:34:40"
+  "published_at": "2026-10-06T05:44:39"
 }
