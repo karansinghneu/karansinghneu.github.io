@@ -1053,9 +1053,10 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "not yet tagged",
-                "n": null
+                "v": "Boxer-Puncher",
+                "d": null,
+                "n": null,
+                "inferred": true
               },
               "bar": null
             },
@@ -1593,12 +1594,12 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-04",
-  "generated_at": "2026-10-08T05:07:39",
+  "data_as_of": "2026-10-08",
+  "generated_at": "2026-10-08T05:33:01",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-08T05:07:39"
+  "published_at": "2026-10-08T05:33:01"
 }

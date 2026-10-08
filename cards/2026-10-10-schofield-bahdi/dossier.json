@@ -1017,9 +1017,10 @@
               "type": "pair",
               "label": "Primary style",
               "a": {
-                "v": null,
-                "d": "not yet tagged",
-                "n": null
+                "v": "Pressure",
+                "d": "Boxer-Puncher",
+                "n": null,
+                "inferred": true
               },
               "b": {
                 "v": null,
@@ -1967,11 +1968,11 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-04",
-  "generated_at": "2026-10-08T05:07:28",
+  "data_as_of": "2026-10-08",
+  "generated_at": "2026-10-08T05:11:35",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata"
   ],
-  "published_at": "2026-10-08T05:07:28"
+  "published_at": "2026-10-08T05:11:35"
 }
