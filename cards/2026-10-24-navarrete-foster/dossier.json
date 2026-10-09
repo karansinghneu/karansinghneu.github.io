@@ -564,7 +564,7 @@
           "given": "Albert",
           "surname": "Gonzalez",
           "short": "Gonzalez",
-          "alias": "Chop Chop",
+          "alias": null,
           "nationality": "United States",
           "record": "18-0-0",
           "record_bar": {
@@ -1623,7 +1623,7 @@
           "given": "Emanuel",
           "surname": "Moreno",
           "short": "Moreno",
-          "alias": "El Trompo",
+          "alias": null,
           "nationality": "United States",
           "record": "13-0-0",
           "record_bar": {
@@ -2090,12 +2090,12 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-08",
-  "generated_at": "2026-10-08T05:13:26",
+  "data_as_of": "2026-10-09",
+  "generated_at": "2026-10-09T17:19:58",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-08T05:13:26"
+  "published_at": "2026-10-09T17:19:58"
 }

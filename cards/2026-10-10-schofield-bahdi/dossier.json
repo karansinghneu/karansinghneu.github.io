@@ -577,7 +577,7 @@
           "given": "Sergio",
           "surname": "Mendoza",
           "short": "Mendoza",
-          "alias": "Yoreme",
+          "alias": null,
           "nationality": "Mexico",
           "record": "27-1-0",
           "record_bar": {
@@ -1083,7 +1083,7 @@
           "given": "Pedro",
           "surname": "Castaneda",
           "short": "Castaneda",
-          "alias": "Asesino del KO",
+          "alias": null,
           "nationality": "Mexico",
           "record": "9-1-1",
           "record_bar": {
@@ -1536,7 +1536,7 @@
           "given": "Jan Paul",
           "surname": "Rivera",
           "short": "Rivera",
-          "alias": "Pizarro",
+          "alias": null,
           "nationality": "Puerto Rico",
           "record": "16-0-0",
           "record_bar": {
@@ -1555,7 +1555,7 @@
           "given": "Abraham",
           "surname": "Perfecto",
           "short": "Perfecto",
-          "alias": "Valdez",
+          "alias": null,
           "nationality": "Mexico",
           "record": "14-2-0",
           "record_bar": {
@@ -1968,11 +1968,11 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-08",
-  "generated_at": "2026-10-08T05:11:35",
+  "data_as_of": "2026-10-09",
+  "generated_at": "2026-10-09T17:19:53",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata"
   ],
-  "published_at": "2026-10-08T05:11:35"
+  "published_at": "2026-10-09T17:19:53"
 }
