@@ -317,11 +317,11 @@
               "b": {
                 "v": "94%",
                 "d": "5 of last 5",
-                "n": 93.8
+                "n": 93.9
               },
               "bar": {
                 "a": 96.4,
-                "b": 93.8
+                "b": 93.9
               }
             },
             {
@@ -1544,11 +1544,11 @@
     }
   ],
   "data_as_of": "2026-10-14",
-  "generated_at": "2026-10-14T03:35:49",
+  "generated_at": "2026-10-14T04:47:09",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-14T03:35:49"
+  "published_at": "2026-10-14T04:47:09"
 }
