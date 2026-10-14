@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "status": "published",
+  "status": "settled",
   "card": {
     "slug": "2026-10-10-schofield-bahdi",
     "title": "Schofield vs Bahdi",
@@ -542,7 +542,10 @@
         "fighter_id": 1988242140,
         "picked_at": "2026-10-08T04:08:03"
       },
-      "result": null
+      "result": {
+        "text": "Floyd Schofield Jr. by unanimous decision",
+        "verdict": "recorded"
+      }
     },
     {
       "order": 2,
@@ -550,7 +553,7 @@
       "weight_class": "Flyweight",
       "scheduled_rounds": 12,
       "title": "WBA/WBC Flyweight unified title defense",
-      "blocked": true,
+      "blocked": false,
       "fighters": [
         {
           "id": 765181,
@@ -577,7 +580,7 @@
           "given": "Sergio",
           "surname": "Mendoza",
           "short": "Mendoza",
-          "alias": null,
+          "alias": "Yoreme",
           "nationality": "Mexico",
           "record": "27-1-0",
           "record_bar": {
@@ -594,7 +597,12 @@
       "groups": [
         {
           "title": "Physical",
-          "chips": [],
+          "chips": [
+            "Sandoval is 1.2 years older",
+            "Mendoza is 5 cm taller",
+            "Mendoza has 1 cm more reach",
+            "Orthodox vs southpaw"
+          ],
           "rows": [
             {
               "type": "pair",
@@ -605,13 +613,13 @@
                 "n": 27.7
               },
               "b": {
-                "v": null,
-                "d": "not listed",
-                "n": null
+                "v": "26",
+                "d": null,
+                "n": 26.5
               },
               "bar": {
                 "a": 100.0,
-                "b": 0.0
+                "b": 95.7
               }
             },
             {
@@ -623,13 +631,13 @@
                 "n": 168.0
               },
               "b": {
-                "v": null,
-                "d": "not listed",
-                "n": null
+                "v": "173 cm",
+                "d": null,
+                "n": 173.0
               },
               "bar": {
-                "a": 100.0,
-                "b": 0.0
+                "a": 97.1,
+                "b": 100.0
               }
             },
             {
@@ -641,13 +649,13 @@
                 "n": 170.0
               },
               "b": {
-                "v": null,
-                "d": "not listed",
-                "n": null
+                "v": "171 cm",
+                "d": null,
+                "n": 171.0
               },
               "bar": {
-                "a": 100.0,
-                "b": 0.0
+                "a": 99.4,
+                "b": 100.0
               }
             },
             {
@@ -659,8 +667,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "not listed",
+                "v": "Southpaw",
+                "d": null,
                 "n": null
               },
               "bar": null
@@ -680,8 +688,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
+                "v": "2026-04-13",
+                "d": null,
                 "n": null
               },
               "bar": null
@@ -695,13 +703,13 @@
                 "n": 14.4
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "5.9 months",
+                "d": null,
+                "n": 5.9
               },
               "bar": {
                 "a": 100.0,
-                "b": 0.0
+                "b": 41.0
               }
             },
             {
@@ -713,13 +721,13 @@
                 "n": 0
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "2",
+                "d": null,
+                "n": 2
               },
               "bar": {
                 "a": 0.0,
-                "b": 0.0
+                "b": 100.0
               }
             },
             {
@@ -731,13 +739,13 @@
                 "n": 1.67
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "2.7",
+                "d": null,
+                "n": 2.67
               },
               "bar": {
-                "a": 100.0,
-                "b": 0.0
+                "a": 62.5,
+                "b": 100.0
               }
             },
             {
@@ -749,8 +757,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
+                "v": "up 1",
+                "d": null,
                 "n": null
               },
               "bar": null
@@ -784,8 +792,29 @@
                 "d": null
               },
               "b": {
-                "results": [],
-                "d": "data incomplete"
+                "results": [
+                  {
+                    "r": "W",
+                    "ko": true
+                  },
+                  {
+                    "r": "W",
+                    "ko": true
+                  },
+                  {
+                    "r": "W",
+                    "ko": false
+                  },
+                  {
+                    "r": "W",
+                    "ko": true
+                  },
+                  {
+                    "r": "L",
+                    "ko": false
+                  }
+                ],
+                "d": null
               }
             }
           ]
@@ -804,7 +833,7 @@
               },
               "b": {
                 "v": null,
-                "d": "data incomplete",
+                "d": "records known for only 1 of 28 opponents",
                 "n": null
               },
               "bar": null
@@ -819,7 +848,7 @@
               },
               "b": {
                 "v": null,
-                "d": "data incomplete",
+                "d": "records known for 1 of last 5",
                 "n": null
               },
               "bar": null
@@ -833,8 +862,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
+                "v": "0-1-0",
+                "d": "1 fights",
                 "n": null
               },
               "bar": null
@@ -854,13 +883,13 @@
                 "n": 64.0
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "85%",
+                "d": "23 of 27 wins",
+                "n": 85.2
               },
               "bar": {
                 "a": 64.0,
-                "b": 0.0
+                "b": 85.2
               }
             },
             {
@@ -873,7 +902,7 @@
               },
               "b": {
                 "v": null,
-                "d": "data incomplete",
+                "d": "only 0 wins over rated winners",
                 "n": null
               },
               "bar": {
@@ -890,8 +919,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
+                "v": "1 of 28",
+                "d": "0 fights ago",
                 "n": null
               },
               "bar": null
@@ -911,13 +940,13 @@
                 "n": 12
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "Round 10",
+                "d": null,
+                "n": 10
               },
               "bar": {
                 "a": 100.0,
-                "b": 0.0
+                "b": 83.3
               }
             },
             {
@@ -929,13 +958,13 @@
                 "n": 6
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "1",
+                "d": null,
+                "n": 1
               },
               "bar": {
                 "a": 100.0,
-                "b": 0.0
+                "b": 16.7
               }
             },
             {
@@ -947,9 +976,9 @@
                 "n": 2
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "0",
+                "d": null,
+                "n": 0
               },
               "bar": {
                 "a": 100.0,
@@ -965,13 +994,13 @@
                 "n": 40.7
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "14%",
+                "d": "28 decided fights",
+                "n": 14.3
               },
               "bar": {
                 "a": 40.7,
-                "b": 0.0
+                "b": 14.3
               }
             },
             {
@@ -983,13 +1012,13 @@
                 "n": 1
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
-                "n": null
+                "v": "1",
+                "d": null,
+                "n": 1
               },
               "bar": {
                 "a": 100.0,
-                "b": 0.0
+                "b": 100.0
               }
             }
           ]
@@ -1007,8 +1036,8 @@
                 "n": null
               },
               "b": {
-                "v": null,
-                "d": "data incomplete",
+                "v": "0-0-0",
+                "d": "1 opponents with known stance",
                 "n": null
               },
               "bar": null
@@ -1048,7 +1077,10 @@
         }
       ],
       "pick": null,
-      "result": null
+      "result": {
+        "text": "Sergio Mendoza by KO, round 5",
+        "verdict": "recorded"
+      }
     },
     {
       "order": 3,
@@ -1968,11 +2000,11 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-09",
-  "generated_at": "2026-10-09T17:19:53",
+  "data_as_of": "2026-10-14",
+  "generated_at": "2026-10-14T02:54:20",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata"
   ],
-  "published_at": "2026-10-09T17:19:53"
+  "published_at": "2026-10-14T02:54:20"
 }
