@@ -297,7 +297,7 @@
               },
               "b": {
                 "v": null,
-                "d": "records known for only 1 of 25 opponents",
+                "d": "records known for only 2 of 25 opponents",
                 "n": null
               },
               "bar": null
@@ -312,7 +312,7 @@
               },
               "b": {
                 "v": null,
-                "d": "records known for 0 of last 5",
+                "d": "records known for 1 of last 5",
                 "n": null
               },
               "bar": {
@@ -329,8 +329,8 @@
                 "n": null
               },
               "b": {
-                "v": "1-0-0",
-                "d": "1 fights",
+                "v": "2-0-0",
+                "d": "2 fights",
                 "n": null
               },
               "bar": null
@@ -369,7 +369,7 @@
               },
               "b": {
                 "v": null,
-                "d": "only 1 wins over rated winners",
+                "d": "only 2 wins over rated winners",
                 "n": null
               },
               "bar": {
@@ -425,12 +425,12 @@
                 "n": 5
               },
               "b": {
-                "v": "8",
+                "v": "9",
                 "d": null,
-                "n": 8
+                "n": 9
               },
               "bar": {
-                "a": 62.5,
+                "a": 55.6,
                 "b": 100.0
               }
             },
@@ -504,7 +504,7 @@
               },
               "b": {
                 "v": "0-0-0",
-                "d": "1 opponents with known stance",
+                "d": "2 opponents with known stance",
                 "n": null
               },
               "bar": null
@@ -1598,11 +1598,11 @@
     }
   ],
   "data_as_of": "2026-10-14",
-  "generated_at": "2026-10-14T02:55:10",
+  "generated_at": "2026-10-14T03:35:51",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-14T02:55:10"
+  "published_at": "2026-10-14T03:35:51"
 }

@@ -294,7 +294,7 @@
               "a": {
                 "v": "94%",
                 "d": "13 of 26 opponents",
-                "n": 93.9
+                "n": 93.8
               },
               "b": {
                 "v": null,
@@ -302,7 +302,7 @@
                 "n": null
               },
               "bar": {
-                "a": 93.9,
+                "a": 93.8,
                 "b": 0.0
               }
             },
@@ -1544,11 +1544,11 @@
     }
   ],
   "data_as_of": "2026-10-14",
-  "generated_at": "2026-10-14T02:54:44",
+  "generated_at": "2026-10-14T03:35:49",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-14T02:54:44"
+  "published_at": "2026-10-14T03:35:49"
 }

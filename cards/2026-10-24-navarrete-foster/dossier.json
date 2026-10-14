@@ -1351,9 +1351,9 @@
               "type": "pair",
               "label": "Same, last 5 fights",
               "a": {
-                "v": "97%",
+                "v": "96%",
                 "d": "4 of last 5",
-                "n": 97.1
+                "n": 96.4
               },
               "b": {
                 "v": null,
@@ -1361,7 +1361,7 @@
                 "n": null
               },
               "bar": {
-                "a": 97.1,
+                "a": 96.4,
                 "b": 0.0
               }
             },
@@ -1842,7 +1842,7 @@
               "label": "Opponents' win rate at the time",
               "a": {
                 "v": null,
-                "d": "records known for only 0 of 5 opponents",
+                "d": "records known for only 1 of 5 opponents",
                 "n": null
               },
               "b": {
@@ -1857,7 +1857,7 @@
               "label": "Same, last 5 fights",
               "a": {
                 "v": null,
-                "d": "records known for 0 of last 5",
+                "d": "records known for 1 of last 5",
                 "n": null
               },
               "b": {
@@ -1871,8 +1871,8 @@
               "type": "pair",
               "label": "Record vs winning-record opponents",
               "a": {
-                "v": null,
-                "d": "no rated opponents",
+                "v": "1-0-0",
+                "d": "1 fights",
                 "n": null
               },
               "b": {
@@ -1911,7 +1911,7 @@
               "label": "KO/TKO rate vs winning-record opponents",
               "a": {
                 "v": null,
-                "d": "only 0 wins over rated winners",
+                "d": "only 1 wins over rated winners",
                 "n": null
               },
               "b": {
@@ -2043,7 +2043,7 @@
               "label": "Record vs southpaws",
               "a": {
                 "v": "0-0-0",
-                "d": "0 opponents with known stance",
+                "d": "1 opponents with known stance",
                 "n": null
               },
               "b": {
@@ -2091,11 +2091,11 @@
     }
   ],
   "data_as_of": "2026-10-14",
-  "generated_at": "2026-10-14T02:55:43",
+  "generated_at": "2026-10-14T03:35:54",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-14T02:55:43"
+  "published_at": "2026-10-14T03:35:54"
 }
