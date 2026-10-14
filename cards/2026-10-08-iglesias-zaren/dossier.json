@@ -543,8 +543,13 @@
         "picked_at": "2026-10-08T04:03:58"
       },
       "result": {
-        "text": "Osleys Iglesias by KO, round 7",
-        "verdict": "recorded"
+        "text": "Osleys Iglesias by TKO, round 7",
+        "verdict": "recorded",
+        "corrected": {
+          "at": "2026-10-14T04:34:21",
+          "was": "Osleys Iglesias by KO, round 7",
+          "reason": "Our data import read every TKO as a KO."
+        }
       }
     },
     {

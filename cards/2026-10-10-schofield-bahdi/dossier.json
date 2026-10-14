@@ -1078,8 +1078,13 @@
       ],
       "pick": null,
       "result": {
-        "text": "Sergio Mendoza by KO, round 5",
-        "verdict": "recorded"
+        "text": "Sergio Mendoza by TKO, round 5",
+        "verdict": "recorded",
+        "corrected": {
+          "at": "2026-10-14T04:34:22",
+          "was": "Sergio Mendoza by KO, round 5",
+          "reason": "Our data import read every TKO as a KO."
+        }
       }
     },
     {
