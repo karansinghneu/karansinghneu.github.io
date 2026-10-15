@@ -294,7 +294,7 @@
               "a": {
                 "v": "93%",
                 "d": "38 of 68 opponents",
-                "n": 93.1
+                "n": 93.0
               },
               "b": {
                 "v": null,
@@ -302,7 +302,7 @@
                 "n": null
               },
               "bar": {
-                "a": 93.1,
+                "a": 93.0,
                 "b": 0.0
               }
             },
@@ -310,9 +310,9 @@
               "type": "pair",
               "label": "Same, last 5 fights",
               "a": {
-                "v": "99%",
+                "v": "98%",
                 "d": "5 of last 5",
-                "n": 98.9
+                "n": 98.0
               },
               "b": {
                 "v": "90%",
@@ -320,7 +320,7 @@
                 "n": 89.6
               },
               "bar": {
-                "a": 98.9,
+                "a": 98.0,
                 "b": 89.6
               }
             },
@@ -1594,12 +1594,12 @@
       "result": null
     }
   ],
-  "data_as_of": "2026-10-14",
-  "generated_at": "2026-10-14T04:47:19",
+  "data_as_of": "2026-10-15",
+  "generated_at": "2026-10-15T04:46:54",
   "sources": [
     "Wikipedia (CC BY-SA 4.0)",
     "Wikidata",
     "Wikimedia Commons (photos)"
   ],
-  "published_at": "2026-10-14T04:47:19"
+  "published_at": "2026-10-15T04:46:54"
 }
